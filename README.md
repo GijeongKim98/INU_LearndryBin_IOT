@@ -25,22 +25,32 @@
 
 ### IOT 설계
 ![image](https://user-images.githubusercontent.com/83777482/211187330-0d0ba581-b2ca-48e6-888a-1b2a770da486.png)
+
 팅커캐드를 사용해 직접 설계하였다.
+
+
 ### IOT 실제 사진
 ![image](https://user-images.githubusercontent.com/83777482/211187354-2c227a41-5c2e-4329-ab7f-96fd2b6cd68d.png)
+
 우드락을 사용해 직접 제작하였다.
+
 
 ### 어플사진
 어플에 관한 내용은 다음을 참고.
 https://github.com/GijeongKim98/INU_LearndryBin_Android
 
 ![image](https://user-images.githubusercontent.com/83777482/211187605-7a986805-93da-41ed-bee7-cba39ac253cf.png)
+
 어플에서는 각종 센서들의 센서값을 확인할 수 있고 오른쪽 사진과 마찬가지로 빨래날짜를 추천해준다.
 
+
 ### 빨래날짜 추천기능
+
 api를 이용해 날씨데이터를 가져와 측정데이터와 같이 증감식을 통해 빨래날짜를 추천
 
+
 ### 프로젝트 결과
+
 이번 프로젝트를 통해 IOT에 대해 배울 수 있었으며 또한 나중에는 카메라를 통해 실시간으로 빨래가 들어오는 것을 입력받아 사용자의 옷의 개수를 고려해 빨래날짜를 추천하는 기능을 추가할 것이다. 
 
 
